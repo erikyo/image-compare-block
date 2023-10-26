@@ -1,0 +1,12 @@
+{
+  "apiVersion": 2,
+  "name": "codekraft/image-compare-block",
+  "title": "image-compare-block",
+  "description": "A block that compare two images",
+  "keywords": [ "wp-block", "image", "a/b" ],
+  "category": "media",
+  "editorScript": "file:./build/compare-image-block.js",
+  "viewScript": "file:./build/compare-image-frontend.js",
+  "style": ["file:./build/compare-image-frontend.css"],
+  "editorStyle": "file:./build/style-compare-image-block.css"
+}

@@ -1,0 +1,11 @@
+.image-compare-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+
+  & img {
+    max-width: 100%;
+    display: block;
+  }
+}
